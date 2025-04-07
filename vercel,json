@@ -6,7 +6,7 @@
   "rewrites": [
     {
       "source": "/",
-      "destination": "https://BE-nghe-nhac-truc-tuyen.vercel.app/api/index.js"
+      "destination": "/api/index"
     }
   ]
 }
